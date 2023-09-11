@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Nginx Labs</title>
+</head>
+<body>
+  parameter "q" = 
+  <p id="demo"></p>
+  <script>
+  	var url = new URL(location.href)
+	document.getElementById("demo").innerHTML = url.searchParams.get('q');;
+  </script> 
+</body>
+</html>
