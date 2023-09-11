@@ -1,2 +1,2 @@
 # nginx_lab
-nginx security labs
+nginx security labs for demo :)
